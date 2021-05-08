@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v3Cs341Project5", "v3Cs341Project5\v3Cs341Project5.csproj", "{9032DB6C-5C31-429F-87CC-F59BC56C760F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharpLibrary", "fsharpLibrary\fsharpLibrary.fsproj", "{DB56AA8B-FC7F-41EE-B975-BA2ECD5E2248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9032DB6C-5C31-429F-87CC-F59BC56C760F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9032DB6C-5C31-429F-87CC-F59BC56C760F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9032DB6C-5C31-429F-87CC-F59BC56C760F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9032DB6C-5C31-429F-87CC-F59BC56C760F}.Release|anycpu.Build.0 = Release|anycpu
+		{DB56AA8B-FC7F-41EE-B975-BA2ECD5E2248}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{DB56AA8B-FC7F-41EE-B975-BA2ECD5E2248}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{DB56AA8B-FC7F-41EE-B975-BA2ECD5E2248}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{DB56AA8B-FC7F-41EE-B975-BA2ECD5E2248}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9C2C89-AE0E-4398-A6E3-8DD0A92D8106}
+	EndGlobalSection
+EndGlobal
